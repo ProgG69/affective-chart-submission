@@ -1,0 +1,7 @@
+{
+  "prompt": "A single-frame editorial image for a long-form magazine cover story, emotionally devastating but restrained, no text, no labels, no legend, no axes, no infographic layout. Show a child-sized white school shirt suspended in dark air, but the shirt is shaped like human lungs: the left side still soft cotton, the right side breaking apart into black soot, ash, and ultra-fine particulate dust drifting outward. The transformation should feel unavoidable and intimate, as if breathing itself is eroding the body. Minimal background, deep negative space, cinematic side lighting, subtle brown-gray atmosphere, fine particulate texture, highly detailed fabric fibers dissolving into smoke-like dust, realistic but poetic, haunting, elegant, single central composition, strong figure-ground separation, emotionally clear at a glance, magazine-opening visual, no people visible, no city skyline, no globe, no thermometer, no masks, no hospital imagery, no bar charts, no line charts, no pie charts, no scatter plots, no multi-panel layout. Aspect ratio 4:5, high resolution, sharp focal subject, subdued color palette, premium editorial photography meets conceptual art.",
+  "model": "Flux Pro 1.1",
+  "dataset_name": "Deaths from air pollution, 2023 - Our World in Data (IHME, Global Burden of Disease)",
+  "dataset_url": "https://ourworldindata.org/grapher/ihme-deaths-air-pollution",
+  "insight": "Air pollution silently causes millions of premature deaths each year, turning the ordinary act of breathing into a slow mass casualty."
+}
