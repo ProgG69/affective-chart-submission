@@ -1,0 +1,8 @@
+{
+  "prompt": "A single-frame scientific naturalist plate illustrating gradient descent as a 19th-century natural history engraving, not a modern infographic. Depict a finely observed “landscape” of a loss surface as a rocky botanical hillside or geological specimen in cross-section, with a tiny explorer’s path descending step by step along the slope toward the lowest valley. Show the path clearly as the concept of gradient descent, with small numbered steps, subtle arrows, and a modest handwritten scientific annotation in period-appropriate serif lettering. Use the visual grammar of 19th-century naturalist illustration: copperplate engraving linework, delicate cross-hatching, stippled shading, restrained sepia and muted earth tones, carefully composed centered specimen layout, antique paper texture, and elegant but sober scientific labeling. The image should feel like a plate from an 1800s natural history atlas, with the optimization process still clearly readable to a knowledgeable viewer. Vertical composition, highly detailed, authentic, museum-quality.",
+  "model": "Seedream",
+  "concept": "gradient descent",
+  "tradition_name": "19th-century natural history engraving",
+  "tradition_period": "19th century",
+  "tradition_approach": "Copperplate linework, cross-hatching, stippling, sepia palette, centered specimen composition, and sober serif labels to make the optimization process read like an atlas plate."
+}
